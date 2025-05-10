@@ -14,7 +14,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/JOY-AHMED-88/JOY-BOT/issues"
+      "url": "https://github.com/SAGOR690beep/System-error-/issues"
   },
   "keywords": [
       "bot",
@@ -22,16 +22,16 @@
       "project",
       "messenger",
       "javasvript",
-      "arif",
+      "sagor",
       "prince",
       "mental"
   ],
   "author": "MOHAMMAD-SAGOR",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/JOY-AHMED-88/JOY-BOT/issues"
+      "url": "https://github.com/SAGOR690beep/System-error-/issues"
   },
-  "homepage": "https://github.com/JOY-AHMED-88/JOY-BOT/issues",
+  "homepage": "https://github.com/SAGOR690beep/System-error-/issues",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
